@@ -150,10 +150,6 @@ flowchart LR
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoda-elkassas&hide_border=true&background=F8FAFA&ring=105F68&fire=105F68&currStreakLabel=105F68&sideLabels=111111&currStreakNum=111111&sideNums=111111&dates=6B7280" width="49%" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hoda-elkassas&theme=gruvbox&no-frame=true&column=4&margin-w=8&margin-h=8&title=Commits,Repositories,Followers,Stars" width="80%" />
-</div>
-
 <br/>
 
 <img src="./assets/section-activity.svg" width="100%" alt="Activity"/>
@@ -161,10 +157,8 @@ flowchart LR
 <br/><br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hoda-elkassas/hoda-elkassas/output/dist/snake.svg" alt="Contribution snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/hoda-elkassas/hoda-elkassas/output/snake.svg" alt="Contribution snake" width="100%" />
 </div>
-
-> ⚠️ The snake graphic above only renders once the GitHub Action workflow (`snake.yml`) is added to the `hoda-elkassas/hoda-elkassas` profile repo and has run at least once — see the setup note included alongside this file.
 
 <br/>
 
