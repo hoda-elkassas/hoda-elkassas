@@ -21,6 +21,12 @@
 
 <br/><br/>
 
+> *Every project is a lesson. Every dataset tells a story. Welcome to my journey.*
+
+I'm building my career around data — learning, experimenting, and creating solutions that turn information into meaningful insights.
+
+This GitHub is more than a collection of repositories. It's a living record of my journey, where I share projects, document what I learn, and continuously improve — one step, one project, and one lesson at a time.
+
 I work across the full data lifecycle — from cleaning and analyzing data, to building BI dashboards that drive decisions, to designing the data pipelines and AI systems that make those decisions automatic.
 
 Currently focused on closing the gap between analysis and engineering.
