@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:105F68,50:63C1BB,100:C8E6E2&height=100&section=header" width="100%" />
+
+<br/>
+
 <img src="./assets/banner.png" alt="Hoda Elkassas — Data Analytics, Business Intelligence, Data Engineering, Machine Learning, Generative AI" width="100%" />
 
 <br/>
